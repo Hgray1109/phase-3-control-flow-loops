@@ -1,4 +1,8 @@
 def happy_new_year
+  counter = 10
+  until counter == 0
+    puts "happy_new_year"
+  counter -= 0
   # your code here
 end
 
